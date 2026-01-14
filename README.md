@@ -14,5 +14,7 @@ In the end, the user sees a rendered web page with dynamic text and a static ima
 
 Screenshot of the project structure 
 ![telegram-cloud-photo-size-2-5422483128913170962-x](https://github.com/user-attachments/assets/671d8ab3-7388-4822-a716-7e5b95c7c201)
+
+
 And localhost
 ![telegram-cloud-photo-size-2-5422483128913170960-x](https://github.com/user-attachments/assets/74609471-994d-4228-8357-29a79e825a14)
